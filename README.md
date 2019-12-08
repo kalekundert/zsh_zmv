@@ -6,6 +6,7 @@ relatives `zcp` and `zln`.
 
 Installation
 ------------
-Antigen::
-
+Antigen:
+```
   antigen bundle kalekundert/zsh_zmv.git
+```
